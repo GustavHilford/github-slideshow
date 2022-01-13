@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+#Gustav is the master of the world
 Use the left arrow to go back!
